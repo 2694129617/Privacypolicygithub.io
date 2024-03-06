@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin-block-start: 50px;
-            margin-block-end: 50px;
-        }
-        h1, p {
-            text-align: center;
-            margin-bottom: 15px;
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-            text-align: left; /* Set the list items to be left-aligned */
-        }
-        li {
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
-<body>
+
     <h1>Privacy Policy</h1>
     <p>This policy will help you understand the following:</p>
     <ul>
